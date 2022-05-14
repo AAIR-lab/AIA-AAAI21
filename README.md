@@ -2,13 +2,13 @@
 
 This repository contains the code for the paper:
 
-Asking the Right Questions: Learning Interpretable Action Models through Query Answering.<br/>
+Asking the Right Questions: Learning Interpretable Action Models Through Query Answering.<br/>
 [Pulkit Verma](https://pulkitverma.net),
 [Shashank Rao Marpally](https://marpally-raoshashank.netlify.app/), and 
 [Siddharth Srivastava](http://siddharthsrivastava.net/). <br/>
 35th AAAI Conference on Artificial Intelligence, 2021.
 
-[Paper](https://aair-lab.github.io/Publications/vms_aaai21.pdf) | [Slides](https://pulkitverma.net/assets/pdf/vms_aaai21/vms_aaai21_slides.pdf) | [Poster](https://pulkitverma.net/assets/pdf/vms_aaai21/vms_aaai21_poster.pdf)
+[Paper](https://aair-lab.github.io/Publications/vms_aaai21.pdf) | [Extended Version](https://arxiv.org/pdf/1912.12613.pdf) | [Talk](https://slideslive.com/38948683/asking-the-right-questions-learning-interpretable-action-models-through-query-answering) | [Slides](https://pulkitverma.net/assets/pdf/vms_aaai21/vms_aaai21_slides.pdf) | [Poster](https://pulkitverma.net/assets/pdf/vms_aaai21/vms_aaai21_poster.pdf)
 
 ## Directory Structure
 
@@ -118,12 +118,20 @@ hence most parts are not documented.
 In case of any queries, please contact [verma.pulkit@asu.edu](mailto:verma.pulkit@asu.edu),
 or [smarpall@asu.edu](mailto:smarpall@asu.edu).
 
+## Contributors
+
+[Pulkit Verma](https://pulkitverma.net)<br/>
+[Shashank Rao Marpally](https://marpally-raoshashank.netlify.app/)<br/>
+[Abhyudaya Srinet](https://www.linkedin.com/in/abhyudayasrinet/)<br/>
+[Siddharth Srivastava](https://siddharthsrivastava.net/)<br/>
+
+<br/>
 
 
 # Citation
 ```
 @inproceedings{verma_2021_asking,
-    author = {Verma, Pulkit and Rao Marpally, Shashank and Srivastava, Siddharth},
+    author = {Verma, Pulkit and Marpally, Shashank Rao and Srivastava, Siddharth},
     title = {{Asking the Right Questions: Learning Interpretable Action Models Through Query Answering}},
     booktitle = {Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21)},
     year={2021}

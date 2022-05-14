@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "Asking the Right Questions: Learning Interpretable Action Models Through Query Answering"
+message: >-
+  Please cite AIA using the metadata from
+  'preferred-citation'.
+type: software
+authors:
+  - given-names: Pulkit
+    family-names: Verma
+    email: verma.pulkit@asu.edu
+    affiliation: Arizona State UNiversity
+    orcid: 'https://orcid.org/0000-0002-8770-5390'
+  - given-names: Shashank Rao
+    family-names: Marpally
+    email: smarpall@asu.edu
+    affiliation: Arizona State University
+  - given-names: Siddharth
+    family-names: Srivastava
+    email: siddharths@asu.edu
+    affiliation: Arizona State University
+license: GPL-3.0-or-later
+preferred-citation:
+  type: conference-paper
+  authors:
+    - given-names: Pulkit
+      family-names: Verma
+      email: verma.pulkit@asu.edu
+      affiliation: Arizona State UNiversity
+      orcid: 'https://orcid.org/0000-0002-8770-5390'
+    - given-names: Shashank Rao
+      family-names: Marpally
+      email: smarpall@asu.edu
+      affiliation: Arizona State University
+    - given-names: Siddharth
+      family-names: Srivastava
+      email: siddharths@asu.edu
+      affiliation: Arizona State University
+  title: "Asking the Right Questions: Learning Interpretable Action Models Through Query Answering"
+  year: 2021
+  collection-title: "Proceedings of the 35th AAAI Conference on Artificial Intelligence"
